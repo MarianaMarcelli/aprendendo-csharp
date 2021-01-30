@@ -1,0 +1,7 @@
+c:\users\maria\source\repos\AprendendoCSharp\3-VariaveisPontoFlutuante\bin\Debug\3-VariaveisPontoFlutuante.exe.config
+c:\users\maria\source\repos\AprendendoCSharp\3-VariaveisPontoFlutuante\bin\Debug\3-VariaveisPontoFlutuante.exe
+c:\users\maria\source\repos\AprendendoCSharp\3-VariaveisPontoFlutuante\bin\Debug\3-VariaveisPontoFlutuante.pdb
+c:\users\maria\source\repos\AprendendoCSharp\3-VariaveisPontoFlutuante\obj\Debug\3-VariaveisPontoFlutuante.csprojAssemblyReference.cache
+c:\users\maria\source\repos\AprendendoCSharp\3-VariaveisPontoFlutuante\obj\Debug\3-VariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+c:\users\maria\source\repos\AprendendoCSharp\3-VariaveisPontoFlutuante\obj\Debug\3-VariaveisPontoFlutuante.exe
+c:\users\maria\source\repos\AprendendoCSharp\3-VariaveisPontoFlutuante\obj\Debug\3-VariaveisPontoFlutuante.pdb

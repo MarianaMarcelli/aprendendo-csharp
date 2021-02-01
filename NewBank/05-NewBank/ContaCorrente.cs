@@ -4,6 +4,7 @@ namespace _05_NewBank
 {
     public class ContaCorrente
     {
+        //public Cliente titular = new Cliente();
         public Cliente titular;
         public int conta;
         public int agencia;

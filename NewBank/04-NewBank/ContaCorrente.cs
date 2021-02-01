@@ -15,11 +15,9 @@ public class ContaCorrente
         {
             return false;
         }
-        else
-        {
-            saldo -= valor;
-            return true;
-        }
+
+        saldo -= valor;
+        return true;
     }
     //função sem retorno (void) é mais comumente chamada de método
     public void Depositar(double valor)
@@ -34,11 +32,10 @@ public class ContaCorrente
         {
             return false;
         }
-        else
-        {
-            this.saldo -= valor;
-            contaDestino.Depositar(valor);
-            return true;
-        }
+
+        this.saldo -= valor;
+        contaDestino.Depositar(valor);
+        return true;
+
     }
 }

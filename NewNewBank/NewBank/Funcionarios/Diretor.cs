@@ -6,16 +6,22 @@ using System.Threading.Tasks;
 
 namespace NewBank.Funcionarios
 {
-    public class Diretor
+    public class Diretor : Funcionario
     {
-        public string Nome { get; set; }
-        public string CPF { get; set; }
-        public double Salario { get; set; }
-
-        public double GetBonificacao()
+        public Diretor(string cpf) : base(5000, cpf)
         {
-            return Salario;
+            Console.WriteLine("Criando diretor");
+        }
 
+        public override double GetBonificacao()
+        {
+            return Salario + (base.GetBonificacao());
+
+        }
+
+        public override void AumentarSalario()
+        {
+            Salario *= 1.15;
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\maria\Desktop\aprendendo-csharp\NewBank\07-NewBank\bin\Debug\07-NewBank.exe.config
+C:\Users\maria\Desktop\aprendendo-csharp\NewBank\07-NewBank\bin\Debug\07-NewBank.exe
+C:\Users\maria\Desktop\aprendendo-csharp\NewBank\07-NewBank\bin\Debug\07-NewBank.pdb
+C:\Users\maria\Desktop\aprendendo-csharp\NewBank\07-NewBank\obj\Debug\07-NewBank.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\aprendendo-csharp\NewBank\07-NewBank\obj\Debug\07-NewBank.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\aprendendo-csharp\NewBank\07-NewBank\obj\Debug\07-NewBank.exe
+C:\Users\maria\Desktop\aprendendo-csharp\NewBank\07-NewBank\obj\Debug\07-NewBank.pdb
